@@ -17,6 +17,21 @@ Fork a copy from github or download the repository on your computer, unzip it an
 
 ---
 
+### MySQL instruction
+
+1. Run `mysqld` to start the MySQL database.
+2. Run `mysql -u root` to access MySQL or `mysql -u root -p` if you have password.
+
+MySQL query:
+- `SHOW DATABASES;` (show dabases)
+- `CREATE DATABASE database_name` (create new database)
+- `USE database_name` (switch to database)
+- `CREATE TABLE users(id INT(11) AUTO_INCREMENT PRIMARY KEY, name VARCHAR(100), email VARCHAR(100), username VARCHAR(30), password VARCHAR(100), register_date TIMESTAMP DEFAULT CURRENT_TIMESTAMP);` (creating table with fields)
+- `SHOW TABLES;` (show tables)
+- `DESCRIBE databaes_name` (checking database fields)
+
+---
+
 ### myFlaskApp V1.0 Info
 
 The myFlaskApp uses python and flask for backend.
@@ -26,6 +41,14 @@ The myFlaskApp uses python and flask for backend.
 ### Reference
 
 - [Python3](https://www.python.org/)
+- [Flask]
+- [MySQL-Python]
+- [Bootstrap4]
+- [libMySQL]
+- [Mysqlclient]
+- [flask-mysqldb]
+- [flask-wtf]
+- [passlib]
 
 ---
 
