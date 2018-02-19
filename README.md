@@ -50,6 +50,7 @@ The myFlaskApp uses python and flask for backend.
 - [flask-wtf] ()
 - [passlib] ()
 - [Flask Snippets Decorators] (http://flask.pocoo.org/snippets/category/decorators/)
+- [CKEditor](https://ckeditor.com/)
 
 ---
 
