@@ -41,14 +41,15 @@ The myFlaskApp uses python and flask for backend.
 ### Reference
 
 - [Python3](https://www.python.org/)
-- [Flask]
-- [MySQL-Python]
-- [Bootstrap4]
-- [libMySQL]
-- [Mysqlclient]
-- [flask-mysqldb]
-- [flask-wtf]
-- [passlib]
+- [Flask] ()
+- [MySQL-Python] ()
+- [Bootstrap4] ()
+- [libMySQL] ()
+- [Mysqlclient] ()
+- [flask-mysqldb] ()
+- [flask-wtf] ()
+- [passlib] ()
+- [Flask Snippets Decorators] (http://flask.pocoo.org/snippets/category/decorators/)
 
 ---
 
